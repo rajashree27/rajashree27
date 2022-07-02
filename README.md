@@ -1,6 +1,6 @@
 <img align="left" alt="developer" width="200" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 <h1 align="center">Hi 👋, I'm Rajashree Chakraborty</h1>
-<h3 align="center">A passionate Frontend developer</h3>
+<h3 align="center">A passionate Full Stack Web developer</h3>
 
 
 
@@ -12,7 +12,11 @@
 
 - 🌱 I’m currently learning **Redux**
 
+- 👨‍💻 Have a look at my portfolio at [https://nimble-bublanina-3dc22a.netlify.app/](https://nimble-bublanina-3dc22a.netlify.app/)
+
 - 📫 How to reach me **rjchakraborty98@gmail.com**
+
+- 📄 Have a look at my resume [https://drive.google.com/file/d/1-up-q3mh89EIjC1cZYufebAxoafMAKrj/view?usp=sharing](https://drive.google.com/file/d/1-up-q3mh89EIjC1cZYufebAxoafMAKrj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
