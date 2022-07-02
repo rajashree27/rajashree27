@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 Have a look at my portfolio at [https://nimble-bublanina-3dc22a.netlify.app/](https://nimble-bublanina-3dc22a.netlify.app/)
+- 👨‍💻 Have a look at my portfolio at [https://portfolio-website-rajashree.vercel.app/)
 
 - 📫 How to reach me **rjchakraborty98@gmail.com**
 
