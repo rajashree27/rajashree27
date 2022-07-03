@@ -10,13 +10,13 @@
 
 - 🔭 I recently worked on [Naukri.com clone](https://naukriclone98.vercel.app/)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Redux, advanced React**
 
-- 👨‍💻 Have a look at my portfolio at [https://portfolio-website-rajashree.vercel.app/)
+- 👨‍💻 Have a look at my [Portfolio](https://portfolio-website-rajashree.vercel.app/)
 
-- 📫 How to reach me **rjchakraborty98@gmail.com**
+- 📫 Reach me at **rjchakraborty98@gmail.com**
 
-- 📄 Have a look at my resume [https://drive.google.com/file/d/1-up-q3mh89EIjC1cZYufebAxoafMAKrj/view?usp=sharing](https://drive.google.com/file/d/1-up-q3mh89EIjC1cZYufebAxoafMAKrj/view?usp=sharing)
+- 📄 Have a look at my [Resume](https://drive.google.com/file/d/1-up-q3mh89EIjC1cZYufebAxoafMAKrj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
