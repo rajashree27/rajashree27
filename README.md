@@ -16,7 +16,7 @@
 
 - 📫 Reach me at **rjchakraborty98@gmail.com**
 
-- 📄 Have a look at my [Resume](https://drive.google.com/file/d/1-up-q3mh89EIjC1cZYufebAxoafMAKrj/view?usp=sharing)
+- 📄 Have a look at my [Resume](https://drive.google.com/file/d/1R6zl1RWoyTWo3S-DO82vLmpW1BUurkGE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
