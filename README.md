@@ -1,4 +1,4 @@
-<img align="left" alt="developer" width="200" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<img align="center" alt="developer" width="100%" height="20%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 <h1 align="center">Hi 👋, I'm Rajashree Chakraborty</h1>
 <h3 align="center">A passionate Full Stack Web developer</h3>
 
