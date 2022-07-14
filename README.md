@@ -10,7 +10,7 @@
 
 - 🔭 I recently worked on [Naukri.com clone](https://naukriclone98.vercel.app/)
 
-- 🌱 I’m currently learning **Redux, advanced React**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 Have a look at my [Portfolio](https://portfolio-website-rajashree.vercel.app/)
 
