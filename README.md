@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajashree27&label=Profile%20views&color=0e75b6&style=flat" alt="rajashree27" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/03/18/60/62/240_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg">
+<img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80">
 
 - 🔭 I recently worked on [Naukri.com clone](https://naukriclone98.vercel.app/)
 
