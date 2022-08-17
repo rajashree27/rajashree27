@@ -1,6 +1,6 @@
 <img align="center" alt="developer" width="100%" height="20%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 <h1 align="center">Hi 👋, I'm Rajashree Chakraborty</h1>
-<h3 align="center">A passionate Full Stack Web developer</h3>
+<h3 align="center">A passionate Full Stack Web developer skilled in MERN Stack</h3>
 
 
 
