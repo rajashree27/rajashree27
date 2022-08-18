@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80">
 
 # 💫 About Me:
-🔭 I’m recently worked on [freshly.com clone](https://freshly-clone-flame.vercel.app/)<br><br>🌱 I’m currently learning **Node js, Express.js, MongoDB**<br><br>👨‍💻 Have a look at my [Portfolio](https://portfolio-rajashree-chakraborty.vercel.app/)<br><br>📫 Reach me at my email **rjchakraborty98@gmail.com**<br><br>📄 Have a look at my [Resume](https://drive.google.com/file/d/1-1lm6RTQewyIkHLPUqXcB6EV_Oneqn9M/view?usp=sharing)
+🔭 I’m recently worked on [freshly.com clone](https://freshly-clone-flame.vercel.app/)<br><br>🌱 I’m currently learning **Node js, Express.js, MongoDB**<br><br>👨‍💻 Have a look at my [Portfolio](https://portfolio-rajashree-chakraborty.vercel.app/)<br><br>📫 Reach me at my email **rjchakraborty98@gmail.com**<br><br>📄 Have a look at my [Resume](https://drive.google.com/file/d/11SBwXhX-EoCB9AiLNFpr7uSvmVpu06F-/view?usp=sharing)
 
 
 ## 🌐 Socials:
