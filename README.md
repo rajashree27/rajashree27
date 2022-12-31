@@ -1,6 +1,6 @@
 <img align="center" alt="developer" width="100%" height="20%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 <h1 align="center">Hi 👋, I'm Rajashree Chakraborty</h1>
-<h4 align="center">A passionate Full Stack Web developer with a specialization in MERN Stack. Proficient in working in a team with a willingness to learn and work across various technologies and domains. Looking forward to make a significant contribution to an IT company through dedicated effort and use of my skills.</h4>
+<h4 align="center">A passionate Full Stack Web developer with a specialization in MERN Stack. Proficient in working in a team with a willingness to learn and work across various technologies and domains.</h4>
 
 
 
